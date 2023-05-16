@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:rgb(119, 184, 186)
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  .drum-kit {
+    margin-top: 50px;
+  }
+  
+  .drum-pad {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+  }
+  
+
+  
+  kbd {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .sound-name {
+    font-size: 14px;
+    opacity: 0.8;
+  }
+
+  
